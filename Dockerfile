@@ -24,4 +24,3 @@ RUN a2enmod rewrite
 CMD ["apache2ctl", "-D", "FOREGROUND"]
 
 EXPOSE 80
-# demo 1st PR
